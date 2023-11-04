@@ -1,10 +1,12 @@
 # online-computer-store
-Internship task given by AICP( Artificial intelligence community of pakistan) read the readme file to see the task given
+Internship task given by AICP( Artificial Intelligence Community of pakistan) Read the readme file to see the task given
+the PDF of the questionnaire is also uploaded.
+
 AICP Internship Task Week 1
 An online computer shop sells customized personal computers. Every computer sold includes a basic set of components costing $200 and additional items can be added from the table:
 
-As well as the basic set of components every computer must include one case, one RAM, and one Main Hard Disk Drive from the table.
-A computer is supplied with or without an Operating System.
+As well as the basic set of components, every computer must include one case, one RAM, and one Main Hard Disk Drive from the table.
+A computer is supplied with or without an operating system.
 Write and test a program or programs for the online computer shop.
 Your program or programs must include appropriate prompts for the entry of data; data must be validated on entry.
 Error messages and other outputs need to be set out clearly and understandably. All arrays, variables, constants and other identifiers must have meaningful names.
